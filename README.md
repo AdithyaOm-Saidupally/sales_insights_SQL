@@ -1,4 +1,4 @@
-# Answering retail sales data questions using SQL
+# Answering retail sales data questions using Sequel. 
 
 ## Project Overview
 
